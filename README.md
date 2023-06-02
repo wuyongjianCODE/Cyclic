@@ -53,7 +53,7 @@ python nucleus_recursion_ccrcc.py
 ```
 Training Cyclic Learning on consep dataset:
 ```bash 
-python nucleus_recursion2_consep.py
+python nucleus_recursion_consep.py
 ```
 ## Citing Cyclic Learning
 If you use Cyclic Learning in your work or wish to refer to the results published in this repo, please cite our paper:
