@@ -42,7 +42,7 @@ datasets/
 ```
 
 
-## Training
+## Training And Testing
 Before training, please download pretrain weights of big nature image datasets, for which we use [COCO pretrain weights](https://cocodataset.org/#home). Remember to change the path in the code.
 ```bash 
 python nucleus_recursion_50.py
