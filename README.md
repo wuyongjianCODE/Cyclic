@@ -1,5 +1,5 @@
 # Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation
-Official implementation of Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation
+Official implementation of Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation.
 The original paper link is here:
 [arXiv link](to be update), [TMI link](to be update)
 
