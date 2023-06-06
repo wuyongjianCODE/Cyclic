@@ -63,7 +63,7 @@ python nucleus_recursion_consep.py
 ## Citing Cyclic Learning
 If you use Cyclic Learning in your work or wish to refer to the results published in this repo, please cite our paper:
 ```BibTeX
-@ARTICLE{Zhou2023cyclic,
+@ARTICLE{zhou2023cyclic,
   author={Zhou, Yang and Wu, Yongjian and Wang, Zihua and Wei, Bingzheng and Lai, Maode and Shou, Jianzhong and Fan, Yubo and Xu, Yan},
   journal={IEEE Transactions on Medical Imaging}, 
   title={Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation}, 
